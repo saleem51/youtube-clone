@@ -1,0 +1,1 @@
+console.log("script dans le fichier JS")

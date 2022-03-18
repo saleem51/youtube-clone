@@ -1,0 +1,140 @@
+body{
+    background-color: #212121;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+#hamb{
+    color: #FFF;
+}
+
+li {
+    cursor : pointer;
+}
+
+.list-type {
+    display: flex;
+    justify-content:flex-start
+}
+
+.list-item{
+    color: #FFF;
+    margin-right: 30px;
+    list-style: none;
+}
+
+
+#btn-connect{
+    background-color: transparent;
+    border: 1px solid #3FA6FF;
+    color: #3FA6FF;
+    padding: 10px;
+    position: relative;
+    bottom: 20%;
+}
+
+#btn-connect2{
+    background-color: transparent;
+    border: 1px solid #3FA6FF;
+    color: #3FA6FF;
+    padding: 10px;
+    position: relative;
+    bottom: 20%;
+}
+
+#rechercher{
+    background-color: #212121;
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 10px;
+   
+}
+
+#item-roboto{
+    letter-spacing: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.loupe{
+    background-color: #323232;
+    color:#FFF
+}
+
+#ul-second, #ul-third{
+    display: flex;
+}
+
+#micro{
+    color: #FFF;
+    background-color: #FFF;
+}
+
+#youtube{
+    background-color: red;
+}
+
+.main{
+    display: flex;
+}
+.bg-white{
+    background-color: #FFF;
+}
+.red-color {
+    color:red;
+
+}
+
+.left-menu{
+    color: #FFF;
+    border: 1px solid #FFF;
+    width: 17.5%;
+    height: 600px;
+    scrollbar-color : rgba(255, 255, 255, 0.533);
+    overflow-y: scroll;
+}
+
+.ul-part{
+    border-bottom: .1px solid rgba(255, 255, 255, 0.218);
+    padding-bottom: 1%;
+}
+
+.ul-part-2{
+    border-bottom: .1px solid rgba(255, 255, 255, 0.218);
+    padding-bottom: 1%;
+}
+
+.ul-part-3{
+    border-bottom: .1px solid rgba(255, 255, 255, 0.218);
+    padding-bottom: 7.5%;
+}
+
+.theme-suggest{
+    color: #FFF;
+    border: 1px solid #FFF;
+}
+
+.videos{
+    width: 100%;
+    background-color: #181818;
+    height: 300px;
+    border: 1px solid blue;
+}
+
+.mr{
+    margin-right: 10%;
+}
+
+.list-left-part{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.le-meilleur{
+    white-space: nowrap;
+    font-size: 15px;
+    color:rgba(255, 255, 255, 0.567)
+}
